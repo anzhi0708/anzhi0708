@@ -7,9 +7,7 @@
 ![Rust](https://img.shields.io/badge/Language-Rust-dea584)
 ![Svelte](https://img.shields.io/badge/Language-Svelte-ff3e00)
 ![Termux](https://img.shields.io/badge/Tools-Termux-white)
-
 # Hi there 안녕하세요 你好 👋
-
 ```plaintext
 ~> whoami
 Name:   Anji
@@ -35,9 +33,7 @@ class Anji:
 ```plaintext
 ~> ruff format ./about_me.py
 ```
-
 ## About Me 👋
-
 - 🎓 **Master's degree** in Political Science  
 - 🌐 Work proficiently in Korean, Chinese, and English  
 - 🐍 Experienced with the Python ecosystem  
