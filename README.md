@@ -15,6 +15,7 @@
 Name:   Anji
 Editor: Helix, Neovim, VS Code
 Shell:  Fish, Zsh, Bash
+
 ~> cat ~/about_me.py
 ```
 ```python
