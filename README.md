@@ -11,10 +11,9 @@
 # Hi there 👋
 
 ```python
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from planet_earth.creatures import Person
-
 
 class Anji(Person):
 
