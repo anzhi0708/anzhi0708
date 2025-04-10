@@ -7,7 +7,7 @@
 ![Rust](https://img.shields.io/badge/Language-Rust-dea584)
 ![Svelte](https://img.shields.io/badge/Language-Svelte-ff3e00)
 ![Termux](https://img.shields.io/badge/Tools-Termux-white)
-# Hi there 안녕하세요 你好 👋
+## Hi there 안녕하세요 你好 👋
 ```plaintext
 ~> whoami
 Name:   Anji
@@ -18,7 +18,6 @@ Shell:  Fish, Zsh, Bash
 ```
 ```python
 #!/usr/bin/env python3
-
 class Anji:
 
   def __init__(self):
