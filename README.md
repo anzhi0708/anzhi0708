@@ -24,3 +24,11 @@ class Anji:
       "zh_CN",
     ]
 ```
+
+## About Me 👋
+
+- 🎓 **Master's degree** in Political Science  
+- 🌐 Work proficiently in Korean, Chinese, and English  
+- 🐍 Experienced with the Python ecosystem  
+- 🧩 Curious about the Python C API  
+- 🦀🧠 Currently self-learning Rust and C++23  
