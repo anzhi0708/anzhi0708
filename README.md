@@ -13,8 +13,6 @@
 ```python
 #!/usr/bin/env python3
 
-from planet_earth.creatures import Person
-
 class Anji(Person):
 
   def __init__(self):
