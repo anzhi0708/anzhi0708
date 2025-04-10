@@ -32,6 +32,9 @@ class Anji:
       "zh_CN",
     ]
 ```
+```plaintext
+~> ruff format ./about_me.py
+```
 
 ## About Me 👋
 
