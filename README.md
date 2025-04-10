@@ -40,3 +40,6 @@ class Anji:
 - 🐍 Experienced with the Python ecosystem  
 - 🧩 Curious about the Python C API  
 - 🦀🧠 Currently self-learning Rust and C++23  
+- 📦✈️🗺️ Work experience in **logistics** and travel industries  
+- 🎸 Big fan of modern metal music 
+- ✈️ 10 years of overseas study experience  
