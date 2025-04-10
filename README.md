@@ -8,7 +8,7 @@
 ![Svelte](https://img.shields.io/badge/Language-Svelte-ff3e00)
 ![Termux](https://img.shields.io/badge/Tools-Termux-white)
 
-# Hi there 👋
+# Hi there 안녕하세요 你好 👋
 
 ```plaintext
 ~> whoami
