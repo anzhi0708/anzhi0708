@@ -20,7 +20,7 @@ class Anji(Person):
   def __init__(self):
     self.name   = "anji"
     self.gender = "male"
-    self.languages_sopken = [
+    self.languages_spoken = [
       "en_US",
       "ko_KR",
       "zh_CN",
