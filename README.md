@@ -13,7 +13,7 @@
 ```python
 #!/usr/bin/env python3
 
-class Anji(Person):
+class Anji:
 
   def __init__(self):
     self.name   = "anji"
