@@ -8,15 +8,13 @@
 ![Svelte](https://img.shields.io/badge/Language-Svelte-ff3e00)
 ![Termux](https://img.shields.io/badge/Tools-Termux-white)
 ## Hi there 안녕하세요 你好 👋
-```plaintext
+```python
 ~> whoami
 Name:   Anji
 Editor: Helix, Neovim, VS Code
 Shell:  Fish, Zsh, Bash
 
 ~> cat ~/about_me.py
-```
-```python
 #!/usr/bin/env python3
 class Anji:
 
@@ -28,9 +26,6 @@ class Anji:
       "ko_KR",
       "zh_CN",
     ]
-```
-```plaintext
-~> ruff format ./about_me.py
 ```
 ## About Me 👋
 - 🎓 **Master's degree** in Political Science  
