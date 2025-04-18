@@ -1,3 +1,5 @@
+![Codewars](https://www.codewars.com/users/anji_w/badges/micro)
+
 ![Linux](https://img.shields.io/badge/OS-Linux-white)
 ![Debian](https://img.shields.io/badge/Debian-grey)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
