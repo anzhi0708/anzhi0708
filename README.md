@@ -13,9 +13,7 @@
 ## Hi there 안녕하세요 你好 👋
 - 🎓 **Master's degree** in Political Science  
 - 🌐 Work proficiently in Korean, Chinese, and English  
-- 🐍 Experienced with the Python ecosystem  
-- 🧩 Curious about the Python C API  
-- 🦀🧠 Currently self-learning Rust and C++23  
+- 🐍 Experienced with the Python ecosystem    
 - 📦✈️🗺️ Work experience in **logistics** and travel industries  
-- 🎸 Big fan of modern metal music 
 - ✈️ 10 years of overseas study experience  
+- 🎸 Big fan of modern metal music 
