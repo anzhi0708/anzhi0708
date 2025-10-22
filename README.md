@@ -13,6 +13,6 @@
 - 🎓 **Master's degree** in Political Science  
 - 🌐 Work proficiently in Korean, Chinese, and English  
 - 🐍 Experienced with the Python ecosystem    
-- 📦✈️🗺️ Work experience in **logistics** and travel industries  
+- 📦 Work experience in **logistics** and travel industries  
 - ✈️ 10 years of overseas study experience  
 - 🎸 Big fan of modern metal music 
