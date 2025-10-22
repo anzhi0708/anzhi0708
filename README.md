@@ -8,7 +8,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-grey)
 ![C API](https://img.shields.io/badge/Python_C_API-grey)
 ![uv](https://img.shields.io/badge/uv-grey)
-![Termux](https://img.shields.io/badge/Tools-Termux-white)
 
 ## Hi there 안녕하세요 你好 👋
 - 🎓 **Master's degree** in Political Science  
