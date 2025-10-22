@@ -3,11 +3,11 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-white)
 ![Debian](https://img.shields.io/badge/Debian-grey)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
+![Rust](https://img.shields.io/badge/Language-Rust-dea584)
+![Svelte](https://img.shields.io/badge/Language-Svelte-ff3e00)
 ![Pandas](https://img.shields.io/badge/Pandas-grey)
 ![C API](https://img.shields.io/badge/Python_C_API-grey)
 ![uv](https://img.shields.io/badge/uv-grey)
-![Rust](https://img.shields.io/badge/Language-Rust-dea584)
-![Svelte](https://img.shields.io/badge/Language-Svelte-ff3e00)
 ![Termux](https://img.shields.io/badge/Tools-Termux-white)
 
 ## Hi there 안녕하세요 你好 👋
