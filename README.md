@@ -18,6 +18,6 @@
 - 🎸 Big fan of modern metal music 
 
 ## Work Experience
-- *2026.03 ~ Now*  **SBC Linear** - Chungju, South Korea
-- *2023.08 ~ 2025.12*  **BrosCargo International** - Incheon, South Korea
-- *2022.03 ~ 2023.03*  **TaoHuaYuan Travel Agency** - JiangSu, China
+- *2026.03 ~ Now* &nbsp;&nbsp; **SBC Linear** - Chungju, South Korea
+- *2023.08 ~ 2025.12* &nbsp;&nbsp; **BrosCargo International** - Incheon, South Korea
+- *2022.03 ~ 2023.03* &nbsp;&nbsp; **TaoHuaYuan Travel Agency** - JiangSu, China
